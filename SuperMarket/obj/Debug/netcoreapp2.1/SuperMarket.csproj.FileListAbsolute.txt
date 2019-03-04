@@ -1,0 +1,4 @@
+C:\Users\Toma\source\repos\Store\SuperMarket\obj\Debug\netcoreapp2.1\SuperMarket.csprojAssemblyReference.cache
+C:\Users\Toma\source\repos\Store\SuperMarket\obj\Debug\netcoreapp2.1\SuperMarket.csproj.CoreCompileInputs.cache
+C:\Users\Toma\source\repos\Store\SuperMarket\obj\Debug\netcoreapp2.1\SuperMarket.AssemblyInfoInputs.cache
+C:\Users\Toma\source\repos\Store\SuperMarket\obj\Debug\netcoreapp2.1\SuperMarket.AssemblyInfo.cs
